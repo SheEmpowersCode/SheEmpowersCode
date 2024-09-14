@@ -22,7 +22,7 @@
 
   button,
   #btn-submit {
-    background: none;
+    background: yellow;
     outline: none;
     border: 1px solid rgb(121 121 121 / 28%);
     border-radius: 25px;
