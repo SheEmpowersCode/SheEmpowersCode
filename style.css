@@ -22,7 +22,9 @@
 
   button,
   #btn-submit {
-    background: yellow;
+
+    background: salmon;
+
     outline: none;
     border: 1px solid rgb(121 121 121 / 28%);
     border-radius: 25px;
@@ -145,7 +147,7 @@
   .text-info1 {
     display: grid;
     justify-content: space-between;
-    margin: 30px;
+    margin: 25px;
   }
 
   h2 {
